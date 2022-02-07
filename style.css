@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    outline-style: solid;
+    outline-width: 20px;
+    outline-color:yellow;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 75px;
+    border:solid 10px orange;
+    background-image: url("Winter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    padding: 0px;
+}
+h2 {
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    color:white;
+    font-family: 'Lalezar', cursive;
+    padding: 10px;
+    font-size: 25px;
+}
+a:hover {
+    background-color: #111;
+  }
+header {
+    background-color: #273c75;
+}
